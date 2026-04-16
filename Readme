@@ -1,0 +1,27 @@
+# Data Analysis using Excel (Kaggle Dataset)
+
+## Project Overview
+This project focuses on analyzing a Kaggle dataset (~1200 rows) using Microsoft Excel. The objective was to derive meaningful insights related to sales trends, market distribution, and product segments.
+
+## Dataset
+- Source: Kaggle  
+- Records: ~1200 rows  
+- Format: Excel (.xlsx)
+
+## Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Basic Excel Functions  
+
+## Key Insights
+1. Geography plays a significant role, with the UK, India, and China emerging as the top markets in terms of units sold, indicating strong regional demand concentration.
+
+2. A clear shift towards electric vehicles is observed, as they dominate overall sales compared to diesel and petrol vehicles, reflecting a growing trend towards sustainable mobility.
+
+3. Segment analysis shows that electric and SUV categories lead the market, while premium and mid-range segments contribute relatively less.
+
+## Dashboard / Analysis
+(Screenshots of pivot tables or dashboards can be added here)
+
+## Conclusion
+A significant portion of the analysis process is not spent on using Pivot Tables or Excel formulas, but on understanding the data and determining the most effective approach to extract meaningful insights.
